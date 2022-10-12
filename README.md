@@ -1,4 +1,4 @@
-# Known Issues in Run-3 Data Taking
+# CMS Run-3 Wiki
 
 This `README` aims to collect information about for the following Run-3 related topics:
 
